@@ -7,7 +7,7 @@ Confucius said: One who studies and seasonally keeps in practice, is he not joyo
 For friends to come from afar, is this not joyous?
 ### `人不知而不愠不亦君子乎`
 One who does not understand, so is content, is he not a *junzi*?
-### `有子曰其为人也孝弟而好犯上者，鮮矣`[^1]
+### `有子曰其为人也孝弟而好犯上者鮮矣`[^1]
 Confucius also said: Those who are filial and loving, but violate their superiors, are few indeed.
 ### `不好犯上而好作乱者未之有也`[^2]
 Regarding those who do not like to violate their superiors but like to sow chaos; they do not exist.
@@ -33,6 +33,6 @@ Have I been halfhearted in my dealings? Have I been untrustworthy to my friends?
 
 
 ## Footnotes
-[^1]: Here 也 is a pause \
-[^2]: 未之有也 means 未有之, but since 未 is negative, 有 comes after the object. 也 gives a tone of resolution. \
-[^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding".
+[^1]: Here 也 is a pause
+[^2]: 未之有也 means 未有之, but since 未 is negative, 有 comes after the object. 也 gives a tone of resolution
+[^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding"
