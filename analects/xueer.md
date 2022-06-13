@@ -23,13 +23,20 @@ Zengzi asked: I reflect three times daily.
 Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Haven't I neglected your teaching?
 ### `子曰道千乘之国敬事而信节用而爱人使民以时`
 Confucius said：To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
-### `弟子入则孝出则弟谨而信汎爱众而亲人`
-### `行有余力则以学文`
+### `弟子入则孝出则弟谨而信汎爱众而亲仁`
+In the home a young man should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should float with love for the multitudes of people, and hold benevolence close to his heart.
+### `行有餘力则以学文`
+If opportunities come his way he should use them to culture himself.
 ### `子夏曰贤贤易色事父母能竭其力`
+Zixia said: If virtue replaces his desire for beauty, in attending to his parents he can expend his full effort.
 ### `事君能致其身与朋友交言而有信`
+In attending to his lord he can deliver his whole life, and with friends he can speak truth and have trust.
 ### `虽曰未学吾必谓之学矣`
-### `子曰君子不重则不威学则不固主忠信`
-### `无友不如己者过则勿惮改`
+Although people say he has not learned, I certaintly say he has learned.
+### `子曰君子不重则不威学则不固`
+Confucius said: If a gentleman is not serious, he will not be revered, and his learning will not consolidate.
+### `主忠信无友不如己者过则勿惮改`
+Make faithfulness and sincerity your masters. Do not have a friend who is not your equal. If you make mistakes never shrink from their improvement.
 ### `曾子曰慎终追远民德归厚矣`
 ### `子禽问于子贡曰夫子至于是邦也必闻其政求之与`
 ### `抑与之与`
