@@ -18,8 +18,8 @@ Filial piety, its orientation towards the root of *ren* is probably this.
 ### `子曰巧言令色鮮矣仁`
 Confucius said: In clever speech and a pleasing face, *ren* will be rare indeed.
 ### `曾子曰吾日三省吾身`
-Zengzi asked: I reflect three times daily.
-### `为人谋而不忠乎与朋友交而不信乎传不习乎`
+Zengzi asked: I reflect three times daily:
+### `为人谋而不忠乎与朋友交而不信乎传不习乎`[^4]
 Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Haven't I neglected your teaching?
 ### `子曰道千乘之国敬事而信节用而爱人使民以时`
 Confucius said：To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
@@ -63,3 +63,4 @@ Make faithfulness and sincerity your masters. Do not have a friend who is not yo
 [^1]: Here 也 is a pause
 [^2]: 未之有也 means 未有之, but since 未 is negative, 有 comes after the object. 也 gives a tone of resolution
 [^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding"
+[^4]: These are the three questions he reflects on
