@@ -34,14 +34,17 @@ In attending to his lord he can deliver his whole life, and with friends he can 
 ### `虽曰未学吾必谓之学矣`
 Although people say he has not learned, I certaintly say he has learned.
 ### `子曰君子不重则不威学则不固`
-Confucius said: If a gentleman is not serious, he will not be revered, and his learning will not consolidate.
+Confucius said: If a gentleman is not grave, he will not be dignified, and his learning will be obstructed.
 ### `主忠信无友不如己者过则勿惮改`
-Make faithfulness and sincerity your masters. Do not have a friend who is not your equal. If you make mistakes never shrink from their improvement.
-### `曾子曰慎终追远民德归厚矣`
-### `子禽问于子贡曰夫子至于是邦也必闻其政求之与`
-### `抑与之与`
+Make faithfulness and sincerity your masters. Do not have a friend who is your inferior. If you make mistakes do not fear to correct them.
+### `曾子曰慎终追远民德归厚矣`[^5]
+Zengzi said: If careful attention is payed to parents' funerary rites, the people's *De* will return to greatness.
+### `子禽问于子贡曰夫子至于是邦也必闻其政求之与抑与之与`
+Ziqin asked Zigong: When the master arrives at this country he must learn of its politics. Does he search for this information, or is it given to him? 
 ### `子贡曰夫子温良恭俭让以得之`
+Zigong said: The master is warm, virtuous, respectful, and temperate, and is thus able to obtain it without asking.
 ### `夫子之求之也其诸异乎人之求之与`
+The master's seeking it-- its differences are there not with other mens way of seeking?
 ### `子曰父在观其志父没观其行三年无改于父之道可谓孝矣`
 ### `有子曰礼之用和为贵`
 ### `先王之道斯为美小大由之`
@@ -64,3 +67,4 @@ Make faithfulness and sincerity your masters. Do not have a friend who is not yo
 [^2]: 未之有也 means 未有之, but since 未 is negative, 有 comes after the object. 也 gives a tone of resolution
 [^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding"
 [^4]: These are the three questions he reflects on
+[^5]: 慎終追遠 Means "to carefully attend to one's parents' funerary rites"
