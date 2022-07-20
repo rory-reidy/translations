@@ -44,10 +44,13 @@ Ziqin asked Zigong: When the master arrives at this country he must learn of its
 ### `子贡曰夫子温良恭俭让以得之`
 Zigong said: The master is warm, virtuous, respectful, and temperate, and is thus able to obtain it without asking.
 ### `夫子之求之也其诸异乎人之求之与`
-The master's seeking it-- its differences are there not with other mens way of seeking?
-### `子曰父在观其志父没观其行三年无改于父之道可谓孝矣`
+The master's seeking it-- its differences are there not with other mens' way of seeking?
+### `子曰父在观其志父没观其行三年无改于父之道可谓孝矣`[^6]
+Confucius said: When a man's father is here, observe his will. When his father is gone, observe his doings. After three years without changing from his father's way, he can be called filial.
 ### `有子曰礼之用和为贵`
+Youzi said: In the practice of propriety, calmness becomes valuable.
 ### `先王之道斯为美小大由之`
+The way of the prior kings is has beauty as such; small and large alike spring from it. 
 ### `有所不行知和而和不以礼节之亦不可行也`
 ### `有子曰信近于义言可复也`
 ### `恭近于礼远耻辱也`
@@ -68,3 +71,4 @@ The master's seeking it-- its differences are there not with other mens way of s
 [^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding"
 [^4]: These are the three questions he reflects on
 [^5]: 慎終追遠 Means "to carefully attend to one's parents' funerary rites"
+[^6]: 在 v. To be at, in, on, to exist
