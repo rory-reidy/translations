@@ -1,8 +1,6 @@
 # 学而 - Xue Er
-我要用简体字因为我还没学会了孔子写的字。
 ### `子曰学而时习之不亦说乎`
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous? \
-*Maybe change to "studying and practicing seasonally" to better parallel the next line?*
 ### `有朋自远方来不亦乐乎`
 For friends to come from afar, is this not joyous?
 ### `人不知而不愠不亦君子乎`
@@ -52,8 +50,11 @@ Youzi said: In the practice of propriety, calmness becomes valuable.
 ### `先王之道斯为美小大由之`
 The way of the prior kings is has beauty as such; small and large alike spring from it. 
 ### `有所不行知和而和不以礼节之亦不可行也`
+
 ### `有子曰信近于义言可复也`
+Youzi said: When one's word is kept close to righteousness, speech can be restored.
 ### `恭近于礼远耻辱也`
+When respectfulness is kept close to propriety, shame and humiliation are made distant.
 ### `因不失其亲亦可宗也`
 ### `子曰君子食无求饱居无求安敏于事而慎于言`
 ### `就有道而正焉可谓好学也已`
