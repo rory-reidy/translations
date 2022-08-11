@@ -56,15 +56,23 @@ Youzi said: When one's word is kept close to righteousness, speech can be restor
 ### `恭近于礼远耻辱也`
 When respectfulness is kept close to propriety, shame and humiliation are made distant.
 ### `因不失其亲亦可宗也`
+Then one's kin will not be lost and can become ancestors.
 ### `子曰君子食无求饱居无求安敏于事而慎于言`
+Confucius said: The *junzi* eats without seeking fullness, resides without seeking ease, he is earnest in his dealings and careful in his speech.
 ### `就有道而正焉可谓好学也已`
+He must be near those who know the way, so that he may be corrected. Such a man can truly say he loves learning.
 ### `子贡曰贫而无谄富而无骄何如`
+Zigong said: And what of the poor who are without flattery, or the rich who are without haughtiness?
 ### `子曰可也未若贫而乐富而好礼者也`
+Confucius answered: It is possible for them to be *junzi*. But they are not equal to those who are poor, yet are happy, or those who are rich, yet love propriety.
 ### `子贡曰诗云如切如磋如琢如磨`
+Zigong said: The Book of Poetry says "As knife and file make smooth the bone, so jade is wrought by chisel and stone [^7]" 
 ### `其斯之谓与`
+This is what was said.
 ### `子曰赐也始可与言诗已矣告诸往而知来者`
+Confucius said: Ci-- with him I can begin to speak of the odes. I told him in the past, and he knew its coming.
 ### `子曰不患人之不己知患不知人也`
-
+Confucius said: I do not hate man's not knowing me. I hate not having knowledge of men.
 
 ## Footnotes
 [^1]: Here 也 is a pause
@@ -73,3 +81,4 @@ When respectfulness is kept close to propriety, shame and humiliation are made d
 [^4]: These are the three questions he reflects on
 [^5]: 慎終追遠 Means "to carefully attend to one's parents' funerary rites"
 [^6]: 在 v. To be at, in, on, to exist
+[^7]: The actual quote is 如切如磋如琢如磨, which I translated as "like cutting like polishing like polishing jade like grinding." The translation I used was from sacred-texts.com
