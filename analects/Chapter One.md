@@ -2,8 +2,11 @@
 ### `子曰學而時習之不亦說乎`
 <details><summary>Notes</summary>
 * 子 refers to 孔子
+
 * 時 means "time", but really has more to do with seasons and natural cycles
+
 * 說 is yue, same as 悅
+
 * 乎 connotes a rhetorical question
 </details>
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous?
