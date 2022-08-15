@@ -2,20 +2,30 @@
 ### `子曰學而時習之不亦說乎`
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous?
 <details><summary>Notes</summary>
-子 refers to 孔子, or Confucius. 時 means "time", but really has more to do with seasons and natural cycles. 說 is read as yue4, same as 悅, and 乎 connotes a rhetorical question.
+子 refers to 孔子, or Confucius.
+
+時 means "time", but really has more to do with seasons and natural cycles.
+
+說 is read as yue4, same as 悅, and 乎 connotes a rhetorical question.
 </details>
 
 ### `有朋自遠方來不亦樂乎`
-For bearers of knowledge to come from afar, is this not joyous?
+For learned friends to come from afar, is this not joyous?
 <details><summary>Notes</summary>
-There are some strange associations between 朋 and 友 and other words. In ancient times
+There are some strange associations between 朋 and 友 and other words.
+
+In ancient times
 朋 meant 門, or door/gate/opening.
 友 meant 志, or purpose/will.
-門 was associated with 一師門 and 學. Therefore, I don't call it "friends", but teachers, bearers of knowledge, etc.
+門 was associated with 一師門 and 學.
+
+Another source associates it with disciples, 弟子.
+
+So I add "learned" to "friends".
 </details>
 
 ### `人不知而不慍不亦君子乎`
-One whom people do not know, yet is not angered, is he not a *junzi*?
+One who is ignored by other people, yet is not angered, is he not a *junzi*?
 <details><summary>Notes</summary>
 慍 is a verb meaning anger. Pronounced yun4.
 </details>
@@ -25,7 +35,9 @@ Youzi said: Those who are filial and loving, but violate their superiors, are fe
 <details><summary>Notes</summary>
 有子，名若。我姓銳，所以我大概是銳子。
 
-Some grammar so I don't forget: 者 takes the verb/action clause that comes before it and turns it into a noun. 為人 means behavior towards others or personal character.
+者 takes the verb/action clause that comes before it and turns it into a noun.
+
+為人 means behavior towards others or personal character.
 </details>
 
 ### `不好犯上而好作乱者未之有也`
@@ -36,6 +48,10 @@ Those who respect their superiors, but like to sow chaos, are nonexistent.
 
 ### `君子务本本立而道生`
 The *junzi* attends to the root. Once the root is established, the way is born.
+<details><summary>Notes</summary>
+Here 道, dao4, is the same 道 from the DaoDeJing. Not to necessarily promote an equation of these two ideas, but there is definitely some similarity.
+</details>
+
 ### `孝弟也者其為仁之本與`
 Filial piety: it is probably the root of benevolence.
 <details><summary>Notes</summary>
@@ -45,27 +61,33 @@ The modal expression 也者 Focuses attention on the subject of the sentence whi
 </details>
 
 ### `子曰巧言令色鮮矣仁`
-Confucius said: In a man with clever speech and a pleasing face, benevolence will be rare indeed.
+Confucius said: In a man with clever speech and a pleasing face, benevolence will be rare indeed!
 <details><summary>Notes</summary>
-
+鮮矣仁 has been transposed from 仁鮮矣 to accentuate the statement.
 </details>
 
 ### `曾子曰吾日三省吾身`
-As Zengzi put it, "I reflect three times daily."
+Zengzi said: I reflect three times daily.
 <details><summary>Notes</summary>
-
+三, meaning three, is used to mean three times 三次
 </details>
 
-### `为人谋而不忠乎与朋友交而不信乎传不习乎`[^4]
-"Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Have I not neglected your teaching?"
+### `為人謀而不忠乎與朋友交而不信乎傳不習乎`[^4]
+Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Have I neglected your teaching?
 <details><summary>Notes</summary>
+謀而不忠 is "to plan for or to counsel and not be completely committed to".
 
+傳 means "to teach" or "what was taught" [by Confucius]. Interpreting it as the latter.
 </details>
 
-### `子曰道千乘之国敬事而信节用而爱人使民以时`
-To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
+### `子曰道千乘之国敬事而信節用而愛人使民以时`
+To guide a kingdom of 1,000 chariots, one must be conscientious of public affairs. One must regulate expenditure and care for his fellow man, directing the people in planting crops.
 <details><summary>Notes</summary>
+Here 道 can be substituted for 導, meaning to direct/guide.
 
+乘, sheng4, is described by zdic.net as a "numerary adjunct for vehicles". Note that a kingdom of 1000 chariots was not particularly large by Confucius's time.
+
+使民以時, direct the people in using seasonality. 以 is used as a verb. An important part of leadership in ancient China was the prediction of seasonal patterns through astronomy, astrology, divination, etc.
 </details>
 
 ### `弟子入则孝出则弟谨而信汎爱众而亲仁`
@@ -150,8 +172,12 @@ Confucius said: Ci-- with him I can begin to speak of the odes. I told him in th
 Confucius said: I do not hate man's not knowing me. I hate not having knowledge of men.
 
 ## Footnotes
-[^3]:
 [^4]: These are the three questions he reflects on
 [^5]: 慎終追遠 Means "to carefully attend to one's parents' funerary rites"
 [^6]: 在 v. To be at, in, on, to exist
 [^7]: The actual quote is 如切如磋如琢如磨, which I translated as "like cutting like polishing like polishing jade like grinding." The translation I used was from sacred-texts.com
+
+## References
+https://www.zdic.net/
+https://ctext.org/analects/xue-er
+https://www.ifreesite.com/scriptures/analects-01.htm
