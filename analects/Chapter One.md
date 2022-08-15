@@ -1,5 +1,11 @@
 # 學而 - Xue Er
-### `子曰學而時習之不亦説乎`
+### `子曰學而時習之不亦說乎`
+<details><summary>Notes</summary>
+* 子 refers to 孔子
+* 時 means "time", but really has more to do with seasons and natural cycles
+* 說 is yue, same as 悅
+* 乎 connotes a rhetorical question
+</details>
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous?
 ### `有朋自遠方來不亦樂乎`
 For friends to come from afar, is this not joyous?
@@ -8,23 +14,23 @@ One whom people do not know, yet is not angered, is he not a *junzi*?
 ### `有子曰其爲人也孝弟而好犯上者鮮矣`[^1]
 Youzi said: Those who are filial and loving, but violate their superiors, are few indeed.
 ### `不好犯上而好作乱者未之有也`[^2]
-As for those who do not like to violate their superiors but like to sow chaos; they do not exist.
+Those who respect their superiors, but like to sow chaos, are nonexistent.
 ### `君子务本本立而道生`
 The *junzi* attends to the root. Once the root is established, the way is born.
 ### `孝弟也者其为仁之本与`[^3]
 Filial piety; it is the root of benevolent actions.
 ### `子曰巧言令色鮮矣仁`
-Confucius said: In clever speech and a pleasing face, benevolence will be rare indeed.
+Confucius said: In a man with clever speech and a pleasing face, benevolence will be rare indeed.
 ### `曾子曰吾日三省吾身`
-Zengzi said: I reflect three times daily:
+As Zengzi put it, "I reflect three times daily."
 ### `为人谋而不忠乎与朋友交而不信乎传不习乎`[^4]
-Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Haven't I neglected your teaching?
+"Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Have I not neglected your teaching?"
 ### `子曰道千乘之国敬事而信节用而爱人使民以时`
-Confucius said：To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
+To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
 ### `弟子入则孝出则弟谨而信汎爱众而亲仁`
-In the home a young man should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should float with love for the multitudes of people, and hold benevolence close to his heart.
+In the home a young man should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should be buoyant with love for the thronging masses, and hold benevolence close to his heart.
 ### `行有餘力则以学文`
-If opportunities come his way he should use them to culture himself.
+And if opportunities come his way he should use them to culture himself.
 ### `子夏曰贤贤易色事父母能竭其力`
 Zixia said: If virtue replaces his desire for beauty, in attending to his parents he can expend his full effort.
 ### `事君能致其身与朋友交言而有信`
