@@ -7,6 +7,7 @@
 * 乎 connotes a rhetorical question
 </details>
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous?
+
 ### `有朋自遠方來不亦樂乎`
 For friends to come from afar, is this not joyous?
 ### `人不知而不慍不亦君子乎`
