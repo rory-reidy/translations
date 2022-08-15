@@ -1,50 +1,115 @@
-# 學而 - Xue Er
+# 《論語》學而 - Xue Er
 ### `子曰學而時習之不亦說乎`
-<details><summary>Notes</summary>
-* 子 refers to 孔子
-
-* 時 means "time", but really has more to do with seasons and natural cycles
-
-* 說 is yue, same as 悅
-
-* 乎 connotes a rhetorical question
-</details>
 Confucius said: One who studies and seasonally keeps in practice, is he not joyous?
+<details><summary>Notes</summary>
+子 refers to 孔子, or Confucius. 時 means "time", but really has more to do with seasons and natural cycles. 說 is read as yue4, same as 悅, and 乎 connotes a rhetorical question.
+</details>
 
 ### `有朋自遠方來不亦樂乎`
-For friends to come from afar, is this not joyous?
+For bearers of knowledge to come from afar, is this not joyous?
+<details><summary>Notes</summary>
+There are some strange associations between 朋 and 友 and other words. In ancient times
+朋 meant 門, or door/gate/opening.
+友 meant 志, or purpose/will.
+門 was associated with 一師門 and 學. Therefore, I don't call it "friends", but teachers, bearers of knowledge, etc.
+</details>
+
 ### `人不知而不慍不亦君子乎`
 One whom people do not know, yet is not angered, is he not a *junzi*?
-### `有子曰其爲人也孝弟而好犯上者鮮矣`[^1]
+<details><summary>Notes</summary>
+慍 is a verb meaning anger. Pronounced yun4.
+</details>
+
+### `有子曰其為人也孝弟而好犯上者鮮矣`
 Youzi said: Those who are filial and loving, but violate their superiors, are few indeed.
-### `不好犯上而好作乱者未之有也`[^2]
+<details><summary>Notes</summary>
+有子，名若。我姓銳，所以我大概是銳子。
+
+Some grammar so I don't forget: 者 takes the verb/action clause that comes before it and turns it into a noun. 為人 means behavior towards others or personal character.
+</details>
+
+### `不好犯上而好作乱者未之有也`
 Those who respect their superiors, but like to sow chaos, are nonexistent.
+<details><summary>Notes</summary>
+未之有也 means 未有之, but since 未 is negative, the object 之 is put before the verb 有. 也 gives a tone of resolution.
+</details>
+
 ### `君子务本本立而道生`
 The *junzi* attends to the root. Once the root is established, the way is born.
-### `孝弟也者其为仁之本与`[^3]
-Filial piety; it is the root of benevolent actions.
+### `孝弟也者其為仁之本與`
+Filial piety: it is probably the root of benevolence.
+<details><summary>Notes</summary>
+The modal expression 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding".
+
+與 is a questioning particle, like 吧. It is related to the modal particle 欽, which gives a tone of respect. The structure 其....與 was often used to give an affirmative statement a softer speculative tone.
+</details>
+
 ### `子曰巧言令色鮮矣仁`
 Confucius said: In a man with clever speech and a pleasing face, benevolence will be rare indeed.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `曾子曰吾日三省吾身`
 As Zengzi put it, "I reflect three times daily."
+<details><summary>Notes</summary>
+
+</details>
+
 ### `为人谋而不忠乎与朋友交而不信乎传不习乎`[^4]
 "Have I been halfhearted in my dealings? Have I been untrustworthy to my friends? Have I not neglected your teaching?"
+<details><summary>Notes</summary>
+
+</details>
+
 ### `子曰道千乘之国敬事而信节用而爱人使民以时`
 To guide a kingdom of 1,000 chariots, one must be trustworthy and respectful of public affairs. One must regulate expenditure and care for man, using timeliness to direct the people.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `弟子入则孝出则弟谨而信汎爱众而亲仁`
 In the home a young man should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should be buoyant with love for the thronging masses, and hold benevolence close to his heart.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `行有餘力则以学文`
 And if opportunities come his way he should use them to culture himself.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `子夏曰贤贤易色事父母能竭其力`
 Zixia said: If virtue replaces his desire for beauty, in attending to his parents he can expend his full effort.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `事君能致其身与朋友交言而有信`
 In attending to his lord he can deliver his whole life, and with friends he can speak truth and have trust.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `虽曰未学吾必谓之学矣`
 Although people say he has not learned, I certaintly say he has learned.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `子曰君子不重则不威学则不固`
 Confucius said: If a gentleman is not grave, he will not be dignified, and his learning will be obstructed.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `主忠信无友不如己者过则勿惮改`
 Make faithfulness and sincerity your masters. Do not have a friend who is your inferior. If you make mistakes do not fear to correct them.
+<details><summary>Notes</summary>
+
+</details>
+
 ### `曾子曰慎终追远民德归厚矣`[^5]
 Zengzi said: If careful attention is payed to parents' funerary rites, the people's *De* will return to greatness.
 ### `子禽问于子贡曰夫子至于是邦也必闻其政求之与抑与之与`
@@ -85,9 +150,7 @@ Confucius said: Ci-- with him I can begin to speak of the odes. I told him in th
 Confucius said: I do not hate man's not knowing me. I hate not having knowledge of men.
 
 ## Footnotes
-[^1]: Here 也 is a pause
-[^2]: 未之有也 means 未有之, but since 未 is negative, 有 comes after the object. 也 gives a tone of resolution
-[^3]: 也者 Focuses attention on the subject of the sentence while anticipating an explanation. Much like "as for" or "regarding"
+[^3]:
 [^4]: These are the three questions he reflects on
 [^5]: 慎終追遠 Means "to carefully attend to one's parents' funerary rites"
 [^6]: 在 v. To be at, in, on, to exist
