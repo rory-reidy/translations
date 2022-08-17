@@ -90,17 +90,11 @@ Here 道 can be substituted for 導, meaning to direct/guide.
 使民以時, direct the people in using seasonality. 以 is used as a verb. An important part of leadership in ancient China was the prediction of seasonal patterns through astronomy, astrology, divination, etc.
 </details>
 
-### `弟子入则孝出则弟谨而信汎爱众而亲仁`
-In the home a young man should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should be buoyant with love for the thronging masses, and hold benevolence close to his heart.
-<details><summary>Notes</summary>
+### `弟子入則孝出則弟謹而信汎愛眾而親仁`
+In his parents' home a disciple should be filial, and on the outside respectful of his elders. He should be modest and trustworthy. He should have love for the masses, and keep close to benevolence.
 
-</details>
-
-### `行有餘力则以学文`
+### `行有馀力則以學文`
 And if opportunities come his way he should use them to culture himself.
-<details><summary>Notes</summary>
-
-</details>
 
 ### `子夏曰贤贤易色事父母能竭其力`
 Zixia said: If virtue replaces his desire for beauty, in attending to his parents he can expend his full effort.
