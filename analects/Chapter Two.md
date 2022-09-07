@@ -1,14 +1,23 @@
 # 《論語》為政 - Wei Zheng
-### `子曰為政以德譬如北辰居其所而眾星共之`
-
 <details><summary>Notes</summary>
+為政-- to administer government affairs, 為 meaning "to carry out" and 政 meaning "government"
+</details>
 
+### `子曰為政以德譬如北辰居其所而眾星共之`
+Confucius said: Administrating affairs of the state using *De*, this can be likened to the North Star. It resides at it's location and many stars revolve around it.
+<details><summary>Notes</summary>
+譬如- pi4 ru2; to be like
+北辰- bei3 chen2; North Star
+*De* means virtue, but is more important than that.
 </details>
 
 ### `子曰詩三百一言以蔽之曰思無邪`
-
+The Odes has 300 poems, but they can be summarized in only one sentence: Think no evil.
+Confucius said:
 <details><summary>Notes</summary>
-
+蔽- bi4; cover, hide, conceal, shelter, summarize
+思- si1; think, consider, ponder; final particle
+邪- xie2; wrong, evil, depraved, etc.
 </details>
 
 ### `子曰道之以政齊之以刑民免而無恥道之以德齊之以禮有恥且格`
